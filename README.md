@@ -7,6 +7,7 @@ To Run this project you there are some dependencies are required as follows :
   - VSCode
   
 How to use this repositery :
+
   --Download the github file 
   
   --Run the app.py file in VSCode.
