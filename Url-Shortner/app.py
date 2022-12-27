@@ -19,7 +19,7 @@ def generateurl():
     global shorturl
     shorturl ="".join(random.choices(mylist,k=5))
     URl_dict[shorturl] =  Value   
-    return  "127.0.0.1:5000/"+shorturl 
+    return  "/"+shorturl 
 
 
 @app.route('/<name>')
